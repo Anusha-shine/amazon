@@ -1,0 +1,366 @@
+.navbar {
+    background-color: #131921;;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    
+}
+.nav-logo {
+    width: 114px;
+    height: 60px;
+}
+.nav-address{
+    width: 80px;
+    height: 60px;
+}
+.address{
+    width: 60px;
+    height: 14px;
+    font-size: 12px;
+    font-weight: 400px;
+    color: #ccc;
+    padding-left:20px ;
+    float: left;
+}
+.location-icon{
+    color:white;
+    width: 20px;
+    height: 30px;
+    padding-top: 14px;
+    float: left;
+    
+}
+.address2{
+    color: #fff;
+    width: 50px;
+    height: 46px;
+    float: left;   
+}
+.searchbar{
+    width: 750px;
+    height: 60px;
+    display: flex;
+}
+.search{
+    width: 750px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.search-left{
+    width: 52px;
+    height: 40px;
+    background-color:  #e6e6e6;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+    float: left;
+}
+.search-input{
+    width:650px;
+    height: 38px;
+    border: none;
+    float: left;
+}
+.search-icon{
+    width: 42px;
+    height: 40px;
+    background-color:#febd68;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius:4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+.country{
+    width: 100px;
+    height: 60px;
+    display: flex;
+}
+.country-flag{
+    margin-top: 25px;
+    margin-left: 20px;
+    float: left;
+}
+.EN{
+    width: 45px;
+    height: 19px;
+    float: left;
+    color: #fff;
+    margin-top: 26px;
+    margin-left: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #131921;
+}
+.signin{
+    width: 135px;
+    height: 60px;
+}
+.line1{
+    width:135px;
+    height: 14px;
+    font-size: 12px;
+    color: #fff;
+}
+.line2{
+    width: 135px;
+    height: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #131921;
+}
+.return{
+    width: 77px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+}
+.return-line1{
+    width: 77px;
+    height: 14px;
+    font-size: 12px;
+    margin-left: 10px;
+    color: #fff;
+}
+.return-line2{
+    width: 77px;
+    height:40px;
+    font-size: 14px;
+    margin-left: 10px;
+    font-weight: bold;
+    color: #fff;
+}
+.cart{
+    width: 86px;
+    height: 60px;
+    display: flex;
+}
+.cart-icon{
+    width:44px;
+    height: 60px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.cart-text{
+    width: 42px;
+    height: 45px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.shop{
+    width: 100%;
+    height: 40px;
+    background-color:#232f3e;
+}
+.shop-all{
+    width: 60px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+.shop-icon{
+    width: 18px;
+    height: 15px;
+    color: #fff;
+}
+.shop-text{
+    width: 24px;
+    height: auto;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: inherit;
+}
+.shop-deals{
+    width: 103px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 700px;
+    color: #fff;
+    float: left;
+}
+.shop-service{
+    width: 130px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 700px;
+    color: #fff;
+    float: left;
+}
+.shop-register{
+    width: 70px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 700px;
+    color: #fff;
+    float: left;
+}
+.shop-gift{
+    width: 81px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 700px;
+    color: #fff;
+    float: left;
+}
+.shop-sell{
+    width: 42px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 700px;
+    color: #fff;
+    float: left;
+}
+.page1{
+    width: 100%;
+    height: 300px;
+}
+.page2{
+    width: 100%;
+    height:440px;
+    background-color:yellow;
+}
+.game{
+    width: 306px;
+    height: 440px;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+.game-text{
+    text-align: center;
+}
+.game-image{
+    margin-left: 10px;
+}
+.furniture{
+    width: 306px;
+    height: 440px;
+    background-color: #fff;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.furniture-text{
+    text-align: center;
+}
+.furniture-image{
+    margin-left: 10px;
+}
+.clothes{
+    width: 306px;
+    height: 440px;
+    background-color: #fff;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.clothes-text{
+    text-align: center;
+}
+.clothes-image{
+    margin-left: 10px;
+}
+.health{
+    width: 306px;
+    height: 440px;
+    background-color: #fff;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.health-text{
+    text-align: center;
+}
+.health-image{
+    margin-left: 10px;
+}
+.page3{
+    width: 100%;
+    height: 300px;
+}
+.backtotop{
+    width: 100%;
+    height: 50px;
+    background-color: #37475a; 
+    color: #fff;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 13px;
+}
+.footer-container{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.footer-column{
+    width: 100%;
+    padding-left: 100px;
+    padding-top: 20px;
+    background-color:#131A22;
+    color: #fff;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+h4{
+    font-size: 16px;
+    margin-bottom: 10px; 
+}
+li{
+    margin-bottom: 5px;
+}
+a{
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+}
+.footer-bottom{
+    width: 100%;
+    height: 68px;
+    background-color:#131A22;
+    display: flex;
+    justify-content: center;
+    
+}
+.footer-image{
+    width: 91px;
+    height:68px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.dropdowns{
+    width: 442px;
+    height: 68px;
+    background-color:#131A22;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+}
+.language{
+    width: 116px;
+    height: 35px;
+    cursor: pointer;
+}
+.dollar{
+    width: 150px;
+    height: 35px;
+    cursor: pointer;
+}
+.footer-country{
+    width: 142px;
+    height: 35px;
+}
